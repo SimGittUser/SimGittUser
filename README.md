@@ -20,11 +20,11 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/linkedin.com/in/akshit-singh-00b567371"><img src="https://img.shields.io/badge/LinkedIn-7c5cff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/akshit-singh-00b567371"><img src="https://img.shields.io/badge/LinkedIn-7c5cff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:akshitsingh1074@gmail.com"><img src="https://img.shields.io/badge/Email-ff6fb1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-2fb48d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/Codeforces-4aa3e8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/https://leetcode.com/u/codesof_akshit/"><img src="https://img.shields.io/badge/LeetCode-ff9a62?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/Codeforces-4aa3e8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+<a href="https://leetcode.com/u/codesof_akshit/"><img src="https://img.shields.io/badge/LeetCode-ff9a62?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
 </div>
 
@@ -121,11 +121,11 @@ A toy version of what my RL projects do: start with random moves, collect reward
 
 ## Competitive programming
 
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dhttps://codeforces.com/profile/codeof_akshit&query=%24.result%5B0%5D.rating&label=Codeforces%20rating&style=for-the-badge&color=4aa3e8" alt="Codeforces rating"></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dhttps://codeforces.com/profile/codeof_akshit&query=%24.result%5B0%5D.maxRating&label=peak&style=for-the-badge&color=7c5cff" alt="Codeforces peak rating"></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dhttps://codeforces.com/profile/codeof_akshit&query=%24.result%5B0%5D.rank&label=rank&style=for-the-badge&color=ff6fb1" alt="Codeforces rank"></a>
+<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dcodeof_akshit&query=%24.result%5B0%5D.rating&label=Codeforces%20rating&style=for-the-badge&color=4aa3e8" alt="Codeforces rating"></a>
+<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dcodeof_akshit&query=%24.result%5B0%5D.maxRating&label=peak&style=for-the-badge&color=7c5cff" alt="Codeforces peak rating"></a>
+<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dcodeof_akshit&query=%24.result%5B0%5D.rank&label=rank&style=for-the-badge&color=ff6fb1" alt="Codeforces rank"></a>
 
-<a href="https://leetcode.com/u/https://leetcode.com/u/codesof_akshit/"><img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/codesof_akshit/?theme=light&font=Nunito&ext=heatmap&border=0&radius=20" alt="LeetCode stats" width="620"></a>
+<a href="https://leetcode.com/u/codesof_akshit/"><img src="https://leetcard.jacoblin.cool/codesof_akshit?theme=light&font=Nunito&ext=heatmap&border=0&radius=20" alt="LeetCode stats" width="620"></a>
 
 <br>
 
