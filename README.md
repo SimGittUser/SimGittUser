@@ -101,31 +101,16 @@ A toy version of what my RL projects do: start with random moves, collect reward
 
 ## Tech stack
 
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/scikit--learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Stable--Baselines3-7c5cff?style=flat-square" alt="Stable-Baselines3">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-4dabcf?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/SHAP-ff6fb1?style=flat-square" alt="SHAP">
-<img src="https://img.shields.io/badge/Ollama-3b3355?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+<p><b>ML &amp; AI</b>&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/scikit--learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/Stable--Baselines3-7c5cff?style=flat-square" alt="Stable-Baselines3"> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"> <img src="https://img.shields.io/badge/NumPy-4dabcf?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/SHAP-ff6fb1?style=flat-square" alt="SHAP"> <img src="https://img.shields.io/badge/Ollama-3b3355?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"></p>
+<p><b>Web &amp; tools</b>&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Node.js-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git"></p>
 
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Node.js-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-
-<br><br>
+<br>
 
 ## Competitive programming
 
-<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dcodeof_akshit&query=%24.result%5B0%5D.rating&label=Codeforces%20rating&style=for-the-badge&color=4aa3e8" alt="Codeforces rating"></a>
-<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dcodeof_akshit&query=%24.result%5B0%5D.maxRating&label=peak&style=for-the-badge&color=7c5cff" alt="Codeforces peak rating"></a>
-<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dcodeof_akshit&query=%24.result%5B0%5D.rank&label=rank&style=for-the-badge&color=ff6fb1" alt="Codeforces rank"></a>
-
-<a href="https://leetcode.com/u/codesof_akshit/"><img src="https://leetcard.jacoblin.cool/codesof_akshit?theme=light&font=Nunito&ext=heatmap&border=0&radius=20" alt="LeetCode stats" width="620"></a>
+<div align="center">
+<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://raw.githubusercontent.com/SimGittUser/SimGittUser/output/cf-card.svg" alt="Codeforces stats: problems solved, rating, rank and solved problems by difficulty" width="100%"></a>
+</div>
 
 <br>
 

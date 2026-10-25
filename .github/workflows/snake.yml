@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Profile assets (snake + Codeforces card)
 
 on:
   schedule:
@@ -15,12 +15,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_snake=#ff8fc7&color_dots=#f6f1ff,#e4d8ff,#cbb5ff,#ae8dff,#8a62ff
-            dist/snake-dark.svg?palette=github-dark&color_snake=#ff8fc7
+            dist/snake.svg?color_snake=#0a0a0a&color_dots=#ebebeb,#c4c4c4,#8f8f8f,#5c5c5c,#262626
+            dist/snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#3a3a3a,#6b6b6b,#a3a3a3,#e5e5e5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Codeforces card
+        run: python scripts/cf_card.py --handle codeof_akshit --out dist
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
