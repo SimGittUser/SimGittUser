@@ -30,32 +30,6 @@
 
 <br>
 
-## About me
-
-B.Tech student in **AI & ML**. I like taking an idea all the way to something that runs: a trained model, an agent, a tool with a real interface. Most of what I build sits at the point where **machine learning meets something you can click**.
-
-| | |
-|---|---|
-| **Studying** | B.Tech, Artificial Intelligence & Machine Learning |
-| **Research** | 4+ papers in the pipeline: reinforcement learning, explainable AI, applied ML |
-| **Building** | Learning-path generator, local-LLM physics sims, RL agents |
-| **Practising** | Competitive programming on Codeforces and LeetCode |
-
-<br>
-
-## Research
-
-Papers I am writing up for publication. Links will go live as each one is out.
-
-| Topic | Area | Status |
-|---|---|---|
-| Interpreting adaptive traffic-signal control decisions | Reinforcement learning (PPO), SHAP | ![status](https://img.shields.io/badge/in_preparation-ff9a62?style=flat-square) |
-| Identifying medicinal plants from leaf images | Computer vision, optimisation | ![status](https://img.shields.io/badge/in_preparation-ff9a62?style=flat-square) |
-| Explaining chess result classification across game phases | Explainable ML, Stockfish and Elo features | ![status](https://img.shields.io/badge/in_preparation-ff9a62?style=flat-square) |
-| More in the pipeline | | ![status](https://img.shields.io/badge/coming_soon-c9b6ff?style=flat-square) |
-
-<br>
-
 ## Featured projects
 
 <table>
@@ -86,6 +60,32 @@ Papers I am writing up for publication. Links will go live as each one is out.
 [Snake DQN](https://github.com/SimGittUser/SnakeReinforcement) (Deep Q-learning in PyTorch) ·
 [Codeforces Scraper](https://github.com/SimGittUser/CodeForces-Scrapper) (API-based, resumable) ·
 [Tic-Tac-Toe](https://github.com/SimGittUser?tab=repositories) (unbeatable minimax engine)
+
+<br>
+
+## About me
+
+B.Tech student in **AI & ML**. I like taking an idea all the way to something that runs: a trained model, an agent, a tool with a real interface. Most of what I build sits at the point where **machine learning meets something you can click**.
+
+| | |
+|---|---|
+| **Studying** | B.Tech, Artificial Intelligence & Machine Learning |
+| **Research** | 4+ papers in the pipeline: reinforcement learning, explainable AI, applied ML |
+| **Building** | Learning-path generator, local-LLM physics sims, RL agents |
+| **Practising** | Competitive programming on Codeforces and LeetCode |
+
+<br>
+
+## Research
+
+Papers I am writing up for publication. Links will go live as each one is out.
+
+| Topic | Area | Status |
+|---|---|---|
+| Interpreting adaptive traffic-signal control decisions | Reinforcement learning (PPO), SHAP | ![status](https://img.shields.io/badge/in_preparation-ff9a62?style=flat-square) |
+| Identifying medicinal plants from leaf images | Computer vision, optimisation | ![status](https://img.shields.io/badge/in_preparation-ff9a62?style=flat-square) |
+| Explaining chess result classification across game phases | Explainable ML, Stockfish and Elo features | ![status](https://img.shields.io/badge/in_preparation-ff9a62?style=flat-square) |
+| More in the pipeline | | ![status](https://img.shields.io/badge/coming_soon-c9b6ff?style=flat-square) |
 
 <br>
 
