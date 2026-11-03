@@ -14,17 +14,6 @@
 
 <img src="assets/header.svg" alt="Akshit Singh, B.Tech student in AI and ML" width="100%">
 
-<br><br>
-
-<img src="assets/typing.svg" alt="building ML and AI projects end to end; B.Tech student, AI and ML; 4+ research papers on the way" width="620">
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/akshit-singh-00b567371"><img src="https://img.shields.io/badge/LinkedIn-7c5cff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:akshitsingh1074@gmail.com"><img src="https://img.shields.io/badge/Email-ff6fb1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-2fb48d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://img.shields.io/badge/Codeforces-4aa3e8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/codesof_akshit/"><img src="https://img.shields.io/badge/LeetCode-ff9a62?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
 </div>
 
