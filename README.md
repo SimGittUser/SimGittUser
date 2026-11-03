@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="assets/header.svg" alt="Akshit Singh, B.Tech student in AI and ML" width="100%">
+<img src="assets/8dfa27b1f9dfa9d3b3da3d03a7a5d3fa082fac3e5a3e94b3e5ebb08dc5fba27b.png" alt="Akshit Singh, B.Tech student in AI and ML" width="100%">
 
 
 </div>
