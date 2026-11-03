@@ -95,13 +95,6 @@ A toy version of what my RL projects do: start with random moves, collect reward
 
 <br>
 
-## Competitive programming
-
-<div align="center">
-<a href="https://codeforces.com/profile/codeof_akshit"><img src="https://raw.githubusercontent.com/SimGittUser/SimGittUser/output/cf-card.svg" alt="Codeforces stats: problems solved, rating, rank and solved problems by difficulty" width="100%"></a>
-</div>
-
-<br>
 
 ## Contribution snake
 
